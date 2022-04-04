@@ -13,7 +13,7 @@
   <img align="center" alt="Giovane-Bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Giovane-Vue" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vue_icon_130078.png">
   <img align="center" alt="Giovane-Bootstrap-Vue" height="40" width="40" src="https://bootstrap-vue.org/_nuxt/icons/icon_512x512.67aef2.png"> 
-  <img align="center" alt="Giovane-Bootstrap-Vue" height="40" width="40" src="https://w7.pngwing.com/pngs/28/601/png-transparent-sql-logo-illustration-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo-thumbnail.png">  
+  <img align="center" alt="Giovane-SQL" height="40" width="40" src="https://w7.pngwing.com/pngs/28/601/png-transparent-sql-logo-illustration-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo-thumbnail.png">  
   
 </div><br>
 <div style="display: inline_block">
