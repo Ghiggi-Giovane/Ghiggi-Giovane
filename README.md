@@ -10,6 +10,7 @@
   <img align="center" alt="Giovane-Delhpi 5" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_delphi_icon_130648.png">
   <img align="center" alt="Giovane-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Giovane-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Giovane-JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Giovane-Bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Giovane-Vue" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vue_icon_130078.png">
   <img align="center" alt="Giovane-Bootstrap-Vue" height="40" width="40" src="https://bootstrap-vue.org/_nuxt/icons/icon_512x512.67aef2.png"> 
