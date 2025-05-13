@@ -61,7 +61,7 @@ Se quiser trocar uma ideia, colaborar em projetos ou só bater um papo sobre tec
 ---
 
 ## 🏆 Conquistas
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=William-Schwarz&theme=onedark)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ghiggi-Giovane&theme=onedark)
 
 ---
 
